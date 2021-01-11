@@ -7,3 +7,5 @@ def parse(numeral):
         return 3
     elif numeral == "IV":
         return 4
+    elif numeral == "V":
+        return 5
