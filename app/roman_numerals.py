@@ -1,2 +1,5 @@
 def parse(numeral):
-    return 1
+    if numeral == "I":
+        return 1
+    elif numeral == "II":
+        return 2
