@@ -5,3 +5,5 @@ def parse(numeral):
         return 2
     elif numeral == "III":
         return 3
+    elif numeral == "IV":
+        return 4
