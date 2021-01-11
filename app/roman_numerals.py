@@ -11,3 +11,5 @@ def parse(numeral):
         return 5
     elif numeral == "VI":
         return 6
+    elif numeral == "VII":
+        return 7
